@@ -2,6 +2,8 @@
 title: "A Blog on GitHub. Really?"
 date: 2019-02-22
 ---
+For some reason, I can't change the config file. Can I change this?
+
 Step 6: Create a blog post Do not merge yet! 
 This pull request looks great so far.  You've just edited the _config.yml file! We have some more work to do to create your blog site. You can continue to make commits on your colanetbiz-patch-1 branch and the pull request will update automatically. Activity: Add some content to your blog
 	1. 
