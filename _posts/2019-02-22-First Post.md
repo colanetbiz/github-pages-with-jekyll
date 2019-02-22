@@ -1,5 +1,5 @@
 ---
-title: "My Awesome Title"
+title: "A Blog on GitHub. Really?"
 date: 2019-02-22
 ---
 Step 6: Create a blog post Do not merge yet! 
