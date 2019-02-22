@@ -2,6 +2,7 @@ title: A Blog on GitHub. Really?
 author: Rich Richardson, a novice GitHub User
 email: colanetbiz@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
+  This is the line I'm supposed to change to describe this site. Will it show up?
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
